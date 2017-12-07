@@ -1,0 +1,1 @@
+# CUrrently a copy of macbook setup stuff. Needs to be heavily edited

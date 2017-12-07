@@ -1,0 +1,11 @@
+Keep list in order of importance. 3s are handling something currently broken. 2s are functionality that seem not to be too time consuming to figure out. 1s are puzzles that might take a while to solve (but if you already know how, go for it).
+
+3:
+  
+
+2:
+  Script in crontab to clean Downloads folder.
+  Give user control over time of day for brew update cron.
+
+1:
+  Tab-complete env variables.
