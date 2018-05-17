@@ -13,7 +13,7 @@ cd .. > /dev/null
 touch ~/.secondary_profile.sh
 
 #Source bash profile
-source ~/.bash_profile
+source ~/.bashrc
 
 ###Setup complete###
 echo -e "\n\n\nSetup Complete."
